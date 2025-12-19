@@ -1,16 +1,33 @@
-## Hi there 👋
 
 <!--
 **HarryHallows/HarryHallows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+### 💬 Ask me about ...
 -->
+
+# Hi there 👋
+I am Harry, a professional Software Engineer trying to build cool things and constantly improve by learning new supplementary skills. I am constantly thinking of ways to build products that can help enable productivity and improve the experience of users.
+
+
+I am currently open to work opportunities and would love to chat if you're interested!
+
+
+## 🔭 I’m currently working on:
+🚀 Deployment platform to help enable Indie Hackers and Agencies. 
+
+## 🌱 I’m currently learning:
+🤖 Generative AI / Deep Learning
+
+
+🖌️ Frontend Techologies
+
+## 📚 What I'm currently reading:
+📖 Hands-on Machine Learning with PyTorch and Scikit-Learn
+
+📖 Mathematics For Machine Learning
+
+## 📫 How to reach me:
+📝 [Linkedin Profile](https://www.linkedin.com/in/harryhallows/)
