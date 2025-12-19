@@ -24,7 +24,7 @@ I am currently open to work opportunities and would love to chat if you're inter
 
 🖌️ Frontend Techologies
 
-## 📚 What I'm currently reading:
+## 📚 I'm currently reading:
 📖 Hands-on Machine Learning with PyTorch and Scikit-Learn
 
 📖 Mathematics For Machine Learning
