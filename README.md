@@ -16,7 +16,7 @@ I am currently open to work opportunities and would love to chat if you're inter
 
 
 ## 🔭 I’m currently working on:
-🚀 Deployment platform to help enable Indie Hackers and Agencies. 
+🚀 Deployment platform to help enable users get their applications live and secure. 
 
 ## 🌱 I’m currently learning:
 🤖 Generative AI / Deep Learning
