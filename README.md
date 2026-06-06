@@ -17,7 +17,9 @@ I am currently open to work opportunities and would love to chat if you're inter
 
 ## 🔭 I’m currently working on:
 🟢 Agentic Marketing and Leads generation platform.
+
 🚀 Deployment platform to help enable users get their AI Agents live. 
+
 ☕ Neovim distribution for VScode users to dip their toes with ease.
 
 ## 🌱 I’m currently learning:
